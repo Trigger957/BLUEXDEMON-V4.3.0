@@ -23,7 +23,7 @@ global.public = true
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
